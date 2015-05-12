@@ -1,0 +1,14 @@
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\WebApplication1.dll
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\darius\Documents\GitHub\ProductApp1\WebApplication1\obj\Debug\WebApplication1.pdb
